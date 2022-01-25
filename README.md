@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekWafare
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on @Abhishekwafare
 - 📫 How to reach me abhishekwafare18@gmail.com
 
